@@ -5,3 +5,5 @@
 	java -jar apiGenDoc.jar  sourcePath outPath   //outPath下会生成源代码文件
 
 
+### 效果图
+![](./example.jpg)
